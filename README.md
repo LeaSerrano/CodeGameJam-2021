@@ -2,7 +2,7 @@
 
 Ce jeu a été réalisé en 36h pour la Code Game Jam 2021 organisée à l'IUT de Montpellier-Sète. C'est un jeu réalisé à 4 en C# sur Unity.
 
-Le but : Réaliser un jeu vidéo sur le thème chasse aux trésors
+Le but : Réaliser un jeu vidéo sur le thème chasse aux trésors.
 
 Nous avons choisi de réaliser un jeu en tour par tour dans lequel on défie des montres coffres.
 
