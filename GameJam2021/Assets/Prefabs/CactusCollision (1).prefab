@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2452871757295054998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2452871757295054992}
+  - component: {fileID: 2452871757295054993}
+  m_Layer: 0
+  m_Name: CactusCollision (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2452871757295054992
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2452871757295054998}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.406, y: 2.923, z: -119.730576}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!68 &2452871757295054993
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2452871757295054998}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.08820629, y: -0.000000059604645}
+  - {x: -0.096268654, y: -0.002180159}
+  - {x: 0.10479927, y: -0.005078137}
+  - {x: 0.10575676, y: -0.04106891}
+  - {x: 0.11121845, y: -0.24628937}
+  - {x: 0.36196518, y: -0.24352485}
+  - {x: 0.36362934, y: -0.48939228}
+  - {x: 0.11560917, y: -0.490346}
+  - {x: 0.115454674, y: -0.6813947}
+  - {x: -0.13648415, y: -0.6825345}
+  - {x: -0.13824081, y: -0.66506624}
+  - {x: -0.13562489, y: -0.52781373}
+  - {x: -0.38895512, y: -0.52801}
+  - {x: -0.38754272, y: -0.14018112}
+  - {x: -0.096178055, y: -0.13517869}
+  - {x: -0.0957737, y: -0.005125463}
+  - {x: -0.10072613, y: -0.0032122731}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
